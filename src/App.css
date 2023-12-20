@@ -1,0 +1,16 @@
+.container {
+  padding: 3em 0;
+  margin-left: 130px;
+  overflow: hidden;
+}
+
+.App {
+  position: relative;
+}
+
+@media screen and (max-width: 890px) {
+  .container {
+    padding: 3em 1rem;
+    margin: 0px;
+  }
+}
